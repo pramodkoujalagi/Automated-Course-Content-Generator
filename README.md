@@ -18,14 +18,14 @@ ACCG uses advanced language models like GPT-3.5 Turbo/4 Turbo and Meta’s LLama
   <img src="https://img.shields.io/badge/Meta-LLama--3-%233776AB.svg?style=for-the-badge&logo=Meta&logoColor=white" alt="Meta LLama-3">
 </p>
 
-## Checkout the demo here
-[ACCG-Demo](https://www.veed.io/view/fd48948d-6db0-4411-ada7-cfd40ffb19d4?panel=share)
+## Checkout the demo here!
+## 👉 [ACCG-Demo](https://www.veed.io/view/fd48948d-6db0-4411-ada7-cfd40ffb19d4?panel=share)
 
 ## 🌟 Features
 
 - **Interactive Course Customization** 🎨: Input your course details to generate a customized outline.
 - **Detailed Content Generation** 📝: Create comprehensive content for each module and lesson.
-- **Quiz Generation** 🧩: Automatically generate quizzes based on the course content.
+- **Quiz Generation** 🧩: Automatically generate quizzes for each module based on the module content.
 - **PDF Export** 📄: Download the complete course content as a neatly formatted PDF.
 
 ## 📝 Functionality
