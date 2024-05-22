@@ -18,6 +18,9 @@ ACCG uses advanced language models like GPT-3.5 Turbo/4 Turbo and Meta’s LLama
   <img src="https://img.shields.io/badge/Meta-LLama--3-%233776AB.svg?style=for-the-badge&logo=Meta&logoColor=white" alt="Meta LLama-3">
 </p>
 
+## Checkout the demo here
+[ACCG-Demo](https://www.veed.io/view/fd48948d-6db0-4411-ada7-cfd40ffb19d4?panel=share)
+
 ## 🌟 Features
 
 - **Interactive Course Customization** 🎨: Input your course details to generate a customized outline.
