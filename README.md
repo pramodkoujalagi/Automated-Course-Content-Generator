@@ -20,6 +20,7 @@ ACCG uses advanced language models like GPT-3.5 Turbo/4 Turbo and Meta’s LLama
 
 ## Checkout the demo here!
 ## 👉 [ACCG-Demo](https://www.veed.io/view/fd48948d-6db0-4411-ada7-cfd40ffb19d4?panel=share)
+(Next Version is coming soon!)
 
 ## 🌟 Features
 
