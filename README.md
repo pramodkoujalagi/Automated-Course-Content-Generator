@@ -20,7 +20,8 @@ ACCG uses advanced language models like GPT-3.5 Turbo/4 Turbo and Meta’s LLama
 
 ## Checkout the demo here!
 ## 👉 [ACCG-Demo](https://www.veed.io/view/fd48948d-6db0-4411-ada7-cfd40ffb19d4?panel=share)
-(Next Version with additional features and functionalities is coming soon!)
+(Next Version of ACCG -> Automated Course Development (ACD) with additional features and functionalities is here! Now ACD can create Power Point Presentation along with the new LaTex formatted PDF. Link to the project given below, will be pushing it to this repo soon!)
+https://github.com/pramodkoujalagi/Automated-Course-Development-AI-master
 
 ## 🌟 Features
 
