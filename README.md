@@ -81,11 +81,12 @@ automated-course-content-generator/
 
 #### Quantitative Outcomes 📊
 
-- Increased course creation efficiency by at least 60%.
+- Increased course creation efficiency.
+- Achieving a 70-80% reduction in course development time.
 
 #### Qualitative Outcomes 💡
 
-- Enhanced course quality and relevance through AI-generated content suggestions.
+- Enhanced course quality through Bloom’s Taxonomy and relevance through AI-generated content suggestions.
 - Empowered users to tailor courses to specific audience needs and educational levels.
 - Streamlined the course creation process, resulting in higher user satisfaction.
 
