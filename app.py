@@ -190,8 +190,8 @@ with col2:
                         ]
                     )
                     Dict = response.choices[0].message.content
-                    # st.success("DICTator is here!")
-                    # st.write(Dict)
+                    st.success("DICTator is here!")
+                    st.write(Dict)
 
                     
                     module_lessons = json.loads(Dict)
