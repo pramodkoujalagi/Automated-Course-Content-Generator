@@ -54,7 +54,7 @@ The ACCG leverages advanced language models and intelligent algorithms to genera
 - **Streamlit** 📊
 - **OpenAI's GPT-3.5 Turbo/4 Turbo** 🤖
 - **Meta’s LLama-3-70B-Instruct** 🦙
-- **Prompt Engineering** ✨
+- **Mega prompting** ✨
 - **GitHub** 🐙
 - **VS-Code** 💻
 
