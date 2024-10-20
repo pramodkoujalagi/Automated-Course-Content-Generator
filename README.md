@@ -92,6 +92,8 @@ automated-course-content-generator/
 - Empowered users to tailor courses to specific audience needs and educational levels.
 - Streamlined the course creation process, resulting in higher user satisfaction.
 
+## ⚖️ License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
