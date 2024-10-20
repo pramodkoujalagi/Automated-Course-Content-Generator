@@ -30,6 +30,8 @@ Next Version of ACCG -> Automated Course Development (ACD) with additional featu
 - **Detailed Content Generation** 📝: Create comprehensive content for each module and lesson.
 - **Quiz Generation** 🧩: Automatically generate quizzes for each module based on the module content.
 - **PDF Export** 📄: Download the complete course content as a neatly formatted PDF.
+- **PPT Export (New!)** 📄: Download the complete course content as a neatly formatted PPT.
+- **LATEX**
 
 ## 📝 Functionality
 
