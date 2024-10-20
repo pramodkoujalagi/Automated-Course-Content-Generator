@@ -6,7 +6,7 @@ Empower your teaching with AI-driven course creation!
 
 ## 📘 Introduction
 
-The Automated Course Content Generator (ACCG) is an AI-based Streamlit application developed to assist SMEs, Content Creators, and Educators in creating detailed and comprehensive course content effortlessly. By inputting key parameters such as Course Name, Target Audience Education Level, Course Difficulty Level, and Course Credit, users receive a dynamically generated course outline. This tool also generates quiz questions and provides the complete course content in a downloadable PDF format, as well as PPT (New).
+The Automated Course Content Generator (ACCG) is an AI-based Streamlit application developed to assist SMEs, Content Creators, and Educators in creating detailed and comprehensive course content effortlessly. By inputting key parameters such as Course Name, Target Audience Education Level, Course Difficulty Level, and Course Credit, users receive a dynamically generated course outline. This tool also generates quiz questions and provides the complete course content in a downloadable PDF format, as well as PPT! (New).
 
 ## 🤖 Meet ACCG
 
