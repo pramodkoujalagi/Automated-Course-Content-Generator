@@ -22,7 +22,6 @@ ACCG uses advanced language models like GPT-3.5 Turbo/4 Turbo and Meta’s LLama
 ## 👉 [ACCG-Demo](https://www.veed.io/view/fd48948d-6db0-4411-ada7-cfd40ffb19d4?panel=share)
 Next Version of ACCG -> Automated Course Development (ACD) with additional features and functionalities is coming soon! 
 
-(Update: Pushed the next version to ACD test branch👀)
 
 ## 🌟 Features
 
